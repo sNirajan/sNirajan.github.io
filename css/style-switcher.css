@@ -36,7 +36,7 @@
     line-height: 40px;
 }
 
-.style-switcher  .style-switcher-toggler{
+.style-switcher .style-switcher-toggler{
     top: 0;
 }
 
@@ -66,11 +66,11 @@
 }
 
 .style-switcher .color-1{
-    background: #ec1839;
+    background: #fa5b0f;
 }
 
 .style-switcher .color-2{
-    background: #fa5b0f;
+    background: #ec1839;
 }
 
 .style-switcher .color-3{
